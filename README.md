@@ -1,5 +1,5 @@
 # Cat-Or-Not_Cat
-Simple logistic-regression classifier
+Simple logistic-regression cat recognizer
 
 Followed the general process of building a machine learning model
 1. Initialize the parameters
